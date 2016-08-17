@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>Resources/alt_background_texture.png</file>
+        <file>Title_bar.qml</file>
+        <file>Left_Panel.qml</file>
+        <file>BottomPanel.qml</file>
+        <file>Resources/quit_active.png</file>
+        <file>Message_bar.qml</file>
+        <file>Blanket.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Resources/flag_32_32.png</file>
+        <file>Resources/Number_1_Icon_32.png</file>
+        <file>Resources/Number_2_Icon_32.png</file>
+        <file>Resources/Number_3_Icon_32.png</file>
+        <file>Resources/Number_4_Icon_32.png</file>
+        <file>Resources/Number_5_Icon_32.png</file>
+        <file>Resources/Number_6_Icon_32.png</file>
+        <file>Resources/Number_7_Icon_32.png</file>
+        <file>Resources/Number_8_Icon_32.png</file>
+        <file>Resources/bomb_32_32.png</file>
+        <file>Resources/error.png</file>
+        <file>Resources/information.png</file>
+        <file>Resources/warning.png</file>
+        <file>Resources/Reset_game.png</file>
+    </qresource>
+</RCC>
